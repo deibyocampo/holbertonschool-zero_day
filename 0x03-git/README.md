@@ -1,1 +1,1 @@
-Linux
+echo "Holberton School is so cool!"
